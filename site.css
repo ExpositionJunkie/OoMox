@@ -62,7 +62,8 @@ body {
 }
 
 .response {
-    color: teal;
+    padding-top: 5%;
+    color: white;
 }
 
 .srcAndButton {
@@ -102,7 +103,9 @@ body {
         hsl(180, 100%, 69%)
         );
     z-index: -2;
-    height: 20%;
+    float: left;
+    min-height: 100px;
+    width: 80%;
     opacity: 0.5;
 }
 
